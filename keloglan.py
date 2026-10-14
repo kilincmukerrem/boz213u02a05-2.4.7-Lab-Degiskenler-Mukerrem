@@ -24,7 +24,7 @@ print ("-" *40)
 
 alinan_elma = yenen_elma * 5
 toplam_elma += alinan_elma
-print ("Mevcut Elma Sayısı:", alinan_elma)
+print ("Mevcut Elma Sayısı:", toplam_elma)
 
 print("Keloğlan elmaların ikisini yedi herkesin elmasını annesi ile \nbalkız arasında eşit paylaştırdı")
 
